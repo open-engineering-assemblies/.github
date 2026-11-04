@@ -2,6 +2,8 @@
 
 > **Define once. Assemble repeatedly. Reuse everywhere.**
 
+![Open Engineering Assemblies hero-banner.png](../assets/hero-banner.png)
+
 Welcome to **Open Engineering Assemblies**, the organization responsible for defining reusable, interoperable, and composable engineering assemblies within the Open Engineering Ecosystem.
 
 Inspired by the LEGO building system, Open Engineering transforms the way engineering solutions are created: from building individual products to assembling products from standardized, reusable engineering elements.
