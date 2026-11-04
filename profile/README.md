@@ -423,7 +423,7 @@ Published releases should reference immutable component versions and artifact di
 The proposed repository structure separates specifications, schemas, reusable definitions, and examples.
 
 ```text
-open-engineering-assemblies/
+open-engineering-assemblies/source/
 │
 ├── README.md
 │
